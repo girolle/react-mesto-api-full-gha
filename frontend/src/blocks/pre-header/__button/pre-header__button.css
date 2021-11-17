@@ -1,0 +1,22 @@
+@media screen and (max-width: 767px){
+    .pre-header__button{
+        margin-bottom: 40px;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 18px;
+        line-height: 22px;
+        text-align: center;
+        color: #FFFFFF;
+        text-decoration: none;
+        border: none;
+        background: none;
+        height: 22px;
+        width: 56px;
+        padding: 0px;
+    }
+
+    .pre-header__button:hover{
+        cursor: pointer;
+        opacity: 0.6;
+    }
+}

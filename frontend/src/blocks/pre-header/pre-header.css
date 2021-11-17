@@ -1,0 +1,14 @@
+.pre-header{
+    border-bottom: 1px rgba(84, 84, 84, 0.7) solid;
+    display: none;
+}
+
+@media screen and (max-width: 767px){
+    .pre-header{
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        max-width: 320px;
+        margin: 40px auto 0px;
+    }
+}

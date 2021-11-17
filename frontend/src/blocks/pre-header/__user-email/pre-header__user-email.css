@@ -1,0 +1,10 @@
+@media screen and (max-width: 767px){
+    .pre-header__user-email{
+        font-style: normal;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 22px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+}

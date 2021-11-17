@@ -1,0 +1,9 @@
+.element{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}

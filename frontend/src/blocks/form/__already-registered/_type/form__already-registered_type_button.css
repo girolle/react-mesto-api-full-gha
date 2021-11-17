@@ -1,0 +1,8 @@
+.form__already-registered_type_button{
+    text-decoration: none;
+}
+
+.form__already-registered_type_button:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}

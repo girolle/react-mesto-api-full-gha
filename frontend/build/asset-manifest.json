@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9065ee3.chunk.css",
+    "main.js": "/static/js/main.632a54aa.chunk.js",
+    "main.js.map": "/static/js/main.632a54aa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c3611cda.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c3611cda.js.map",
+    "static/js/2.4a29134d.chunk.js": "/static/js/2.4a29134d.chunk.js",
+    "static/js/2.4a29134d.chunk.js.map": "/static/js/2.4a29134d.chunk.js.map",
+    "static/js/3.8e6b6c0f.chunk.js": "/static/js/3.8e6b6c0f.chunk.js",
+    "static/js/3.8e6b6c0f.chunk.js.map": "/static/js/3.8e6b6c0f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f9065ee3.chunk.css.map": "/static/css/main.f9065ee3.chunk.css.map",
+    "static/js/2.4a29134d.chunk.js.LICENSE.txt": "/static/js/2.4a29134d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/popup__exit.d29e72ab.svg",
+    "static/media/SuccessfulRegist.a9eb6caf.svg": "/static/media/SuccessfulRegist.a9eb6caf.svg",
+    "static/media/TryAgainRegist.d4ce2a26.svg": "/static/media/TryAgainRegist.d4ce2a26.svg",
+    "static/media/header__logo.b61d43d7.svg": "/static/media/header__logo.b61d43d7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3611cda.js",
+    "static/js/2.4a29134d.chunk.js",
+    "static/css/main.f9065ee3.chunk.css",
+    "static/js/main.632a54aa.chunk.js"
+  ]
+}

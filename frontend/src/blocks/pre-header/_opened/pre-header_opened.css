@@ -1,0 +1,9 @@
+.pre-header_opened{
+    display: none;
+}
+
+@media screen and (max-width: 767px){
+    .pre-header_opened{
+        display: flex;
+    }
+}

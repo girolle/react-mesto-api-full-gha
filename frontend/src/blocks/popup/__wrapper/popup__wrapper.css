@@ -1,0 +1,10 @@
+.popup__wrapper{
+    display:flex;
+}
+
+@media screen and (max-width: 767px){
+    .popup__wrapper{
+        flex-direction: column-reverse;
+        align-items: flex-end;
+    }
+}

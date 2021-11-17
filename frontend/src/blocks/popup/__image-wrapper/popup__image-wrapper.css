@@ -1,0 +1,4 @@
+.popup__image-wrapper{
+    display: flex;
+    flex-direction: column;
+}

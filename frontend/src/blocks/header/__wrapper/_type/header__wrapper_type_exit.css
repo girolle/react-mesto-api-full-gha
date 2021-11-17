@@ -1,0 +1,8 @@
+@media screen and (max-width: 767px){
+    .header__wrapper_type_exit{
+        background-image: url(../../../../image/popup__exit.svg);
+        width: 30px;
+        height: 30px;
+        margin-right: 20px;
+    }
+}
